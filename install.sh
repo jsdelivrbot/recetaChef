@@ -1,6 +1,6 @@
-#!/usr/bin/env bash
+#!/bin/bash
 
-sudo apt-get update
-sudo apt-get install git-core curl build-essential openssl libssl-dev nodejs
-sudo apt-get install nvm
+sudo apt-get -y update
+sudo apt-get -y install git-core curl build-essential openssl libssl-dev nodejs
+sudo apt-get -y install nvm
 npm install mocha
