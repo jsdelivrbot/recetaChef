@@ -6,7 +6,7 @@
 
 ### Si falla nvm podemos descargarlo e instalarlo así:
 
-`curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.29.0/install.sh | PROFILE=~/.bashrc bash`
+`curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.29.0/install.sh | sudo bash`
 
 `npm install mocha`
 
