@@ -1,1 +1,1 @@
-`curl -o- https://rawgit.com/Makova/recetaChef/master/install.sh | PROFILE=~/.bashrc bash`
+`curl -o- https://cdn.jsdelivr.net/gh/Makova/recetaChef/install.sh | PROFILE=~/.bashrc bash`
